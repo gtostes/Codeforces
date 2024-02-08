@@ -1,3 +1,12 @@
+/*
+**----------------------**
+** By: Tostes           **
+** Date: DD-MM-YYYY     **
+** Hour: HH:MM:SS       **
+**----------------------**
+*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
  
